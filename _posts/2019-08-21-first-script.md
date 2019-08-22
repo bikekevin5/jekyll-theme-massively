@@ -8,8 +8,8 @@ image: "/images/pic03.jpg"
 
 Just test this out and see what happens
 
-<h1>Add some setting and intro to allow readers to get into the setting.
-That would include any mentions of this is being produced at where when and Why</h1>
+Add some setting and intro to allow readers to get into the setting.
+That would include any mentions of this is being produced at where when and Why
 
 you would also want to use this as a template blog post and see if you want to
 include images systematically instead
@@ -17,6 +17,18 @@ include images systematically instead
 assuming that all your scripts will be broken down like This
 assume do it by hand First
 and then go back and template it??
+
+<h2>Intro</h2>
+
+Subterranean follows the journey of two scientists exploring a cave in search
+of a mysterious geode promising fortune and fame.
+
+With captivating imagery and concise dialogue, this play examines how far
+one should go in search of truth and whether the pursuit of life is worth
+risking its loss.
+
+Written by Kevin Lim and Directed by _ _ , Subterranean will be featured in
+Bindlestiff Studio's Stories High IX (link), with _ _ as Doc and _ _ as Indio.
 
 
 <h2>ACT I</h2>
