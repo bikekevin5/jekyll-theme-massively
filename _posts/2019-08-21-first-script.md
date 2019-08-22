@@ -2,8 +2,10 @@
 layout: post
 title:  "Subterranean"
 date:   2019-08-21
-excerpt: "Stageplay: What happens when two adventure scientists go exploring in an uncharted cave?"
+excerpt: "What happens when two adventure scientists go exploring in an uncharted cave?"
 image: "/images/pic03.jpg"
+categories: #stageplay
+tags: #cave #spelunking #adventure #exploration
 ---
 
 <!--
@@ -25,6 +27,8 @@ and whether the pursuit of life is worth risking its loss.</p>
 <p>Written by Kevin Lim and Directed by _ _ , Subterranean will be featured in
 Bindlestiff Studio's Stories High IX (link), with _ _ as Doc and _ _ as Indio.</p>
 </div>
+
+
 
 <h2>ACT I</h2>
 
