@@ -24,10 +24,10 @@ ACT I
                       Scene 1: Interior Cave,
                       Calaveras Country
 
-  Spotlight up on Indio being lowered by rope down
-  into a damp cave. Indio wears cave exploring gear -
-  a helmet and headlamp. On the other side of the
-  rope is Doc.
+    Spotlight up on Indio being lowered by rope down
+    into a damp cave. Indio wears cave exploring gear -
+    a helmet and headlamp. On the other side of the
+    rope is Doc.
 
 <<Transition Blue + Intro Song>>
 → top of risers/platforms
