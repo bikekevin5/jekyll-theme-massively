@@ -422,14 +422,14 @@ species
 **INDIO**
 you
 
-*Dinosaur appears.
+*Dinosaur appears.*
 
-They turn slowly to face the ferocious creature,
+*They turn slowly to face the ferocious creature,
 its shadow aggressively projected against the
 amazed and terrified expressions of the cave
-explorers.
+explorers.*
 
-Silence.*
+*Silence.*
 
 **DOC**
 *(takes off glasses to get a better look)*
