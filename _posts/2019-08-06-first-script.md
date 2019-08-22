@@ -2,7 +2,7 @@
 layout: post
 title:  "Subterranean"
 date:   2019-08-06
-excerpt: "What happens when two adventure scientists go exploring an uncharted cave?"
+excerpt: "What happens when two adventure scientists explore an uncharted cave?"
 image: "/images/ivana-cajina-Hi0bdO0vEfo-unsplash.jpg"
 categories: #[stageplay]
 tags: #[cave, spelunking, adventure, exploration]
