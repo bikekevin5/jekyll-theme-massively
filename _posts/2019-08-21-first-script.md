@@ -18,8 +18,15 @@ assuming that all your scripts will be broken down like This
 assume do it by hand First
 and then go back and template it??
 
-<h2>Intro</h2>
+<!-- Box -->
+<h2>Box</h2>
+<div class="box">
+	<p>In both layman and nerd-speak, this is a paragraph. This is a paragraph that goes inside a box! Whoa so crazy. This is the text that goes under the heading and the subtitle. Paragraphs vary in length but in school we're taught to make them at least 7 sentences or else we risk getting a C. Since the paragraph didn't have a thesis or a closing argument, it's probably a C grade paragraph.</p>
+</div>
 
+
+<h2>Intro</h2>
+<div class="box">
 Subterranean follows the journey of two scientists exploring a cave in search
 of a mysterious geode promising fortune and fame.
 
@@ -29,7 +36,7 @@ risking its loss.
 
 Written by Kevin Lim and Directed by _ _ , Subterranean will be featured in
 Bindlestiff Studio's Stories High IX (link), with _ _ as Doc and _ _ as Indio.
-
+</div>
 
 <h2>ACT I</h2>
 
