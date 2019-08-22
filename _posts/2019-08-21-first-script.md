@@ -6,24 +6,14 @@ excerpt: "Stageplay: What happens when two adventure scientists go exploring in 
 image: "/images/pic03.jpg"
 ---
 
-Just test this out and see what happens
-
-Add some setting and intro to allow readers to get into the setting.
-That would include any mentions of this is being produced at where when and Why
-
-you would also want to use this as a template blog post and see if you want to
-include images systematically instead
-
-assuming that all your scripts will be broken down like This
-assume do it by hand First
-and then go back and template it??
-
-<!-- Box -->
-<h2>Box</h2>
-<div class="box">
-	<p>In both layman and nerd-speak, this is a paragraph. This is a paragraph that goes inside a box! Whoa so crazy. This is the text that goes under the heading and the subtitle. Paragraphs vary in length but in school we're taught to make them at least 7 sentences or else we risk getting a C. Since the paragraph didn't have a thesis or a closing argument, it's probably a C grade paragraph.</p>
-</div>
-
+<!--
+Hardcode this first then find ways to trim it down and do it programmatically
+How to handle images? Is there a systematic way or does it need to be customized
+to each individual post?
+Is there a way to template this into a "_plays" and "play.html" layout?
+If you do template this, you may need to move where the images are stored,
+as it might break them 
+-->
 
 <h2>Intro</h2>
 <div class="box">
