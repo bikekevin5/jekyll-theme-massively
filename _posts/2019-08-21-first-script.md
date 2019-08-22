@@ -2,14 +2,14 @@
 layout: post
 title:  "First Script"
 date:   2019-08-21
-excerpt: "Huge thanks to HTML5 UP for making this awesome template! Let's see what it can do"
-image: "/images/pic02.jpg"
+excerpt: "There's something alive down here"
+image: "/images/pic03.jpg"
 ---
 
 Just test this out and see what happens
 
-Add some setting and intro to allow readers to get into the setting.
-That would include any mentions of this is being produced at where when and Why
+<h1>Add some setting and intro to allow readers to get into the setting.
+That would include any mentions of this is being produced at where when and Why</h1>
 
 you would also want to use this as a template blog post and see if you want to
 include images systematically instead
