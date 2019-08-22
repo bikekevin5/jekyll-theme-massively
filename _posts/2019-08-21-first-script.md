@@ -53,51 +53,51 @@ rope is Doc.
 → INDIO begins climb down
 
 (1) BELAY ON
-          INDIO
-               Belay on Doc
+INDIO
+ Belay on Doc
 
-          DOC
-               On Belay Indio
+DOC
+ On Belay Indio
 
-          INDIO
-               I don't think it's here
+INDIO
+ I don't think it's here
 
-          DOC
-               Doesn't your dissertation depend on finding it?
+DOC
+ Doesn't your dissertation depend on finding it?
 
-          INDIO
-               It would be deeper
+INDIO
+ It would be deeper
 
-          DOC
-               So lower?
+DOC
+ So lower?
 
-          INDIO
-               Yeah
+INDIO
+ Yeah
 
-          DOC
-                         (belaying the rope)
-               Lowering
+DOC
+           (belaying the rope)
+ Lowering
 
-                    (Indio lowered deeper into the stalagmites)
+      (Indio lowered deeper into the stalagmites)
 
-          INDIO
-               Tension Doc
+INDIO
+ Tension Doc
 
-          DOC
-               Got you, Indio
+DOC
+ Got you, Indio
 
-          INDIO
-               You'd only see trace elements--
+INDIO
+ You'd only see trace elements--
 
-          DOC
-                         (stopping the rope)
-               Braking
+DOC
+           (stopping the rope)
+ Braking
 
-          INDIO
-               --at this depth
+INDIO
+ --at this depth
 
-          DOC
-               Seated
+DOC
+ Seated
 
 (2) PUBLISH OR DIE
           INDIO
