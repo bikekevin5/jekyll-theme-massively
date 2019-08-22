@@ -66,7 +66,7 @@ Yeah
 *(belaying the rope)*
 Lowering
 
-**Indio lowered deeper into the stalagmites**
+*Indio lowered deeper into the stalagmites*
 
 **INDIO**
 Tension Doc
@@ -155,7 +155,7 @@ All I've learned is that everything is connected to some
 common ancestor in the past which means everything has
 an origin and explanation
 
-Shadows move across the light
+*Shadows move across the light*
 
 **INDIO**
 It's spooky in here
@@ -283,7 +283,7 @@ I'm gonna open it
 *(blocks the knife)*
 Wait!
 
-A loud roar echoes through the cave
+*A loud roar echoes through the cave*
 
 **INDIO**
 What was that
@@ -320,7 +320,7 @@ I gotta know
 *(climbing out)*
 It's not worth my life
 
-A loud roar, flash of light, rumbling
+*A loud roar, flash of light, rumbling*
 
 **DOC**
 Where are ya girl?
@@ -509,8 +509,8 @@ It might kill you
 **DOC**
 It might save me
 
-Doc and Indio consider the Dinosaur. It rumbles
-gently.
+*Doc and Indio consider the Dinosaur. It rumbles
+gently.*
 
 **INDIO**
 This is proprietary research
