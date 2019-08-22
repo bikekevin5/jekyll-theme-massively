@@ -19,15 +19,15 @@ assume do it by hand First
 and then go back and template it??
 
 
-ACT I
+<h2>ACT I</h2>
 
-                      Scene 1: Interior Cave,
-                      Calaveras Country
+<h3>Scene 1: Interior Cave,
+Calaveras Country</h3>
 
-    Spotlight up on Indio being lowered by rope down
-    into a damp cave. Indio wears cave exploring gear -
-    a helmet and headlamp. On the other side of the
-    rope is Doc.
+Spotlight up on Indio being lowered by rope down
+into a damp cave. Indio wears cave exploring gear -
+a helmet and headlamp. On the other side of the
+rope is Doc.
 
 <<Transition Blue + Intro Song>>
 → top of risers/platforms
