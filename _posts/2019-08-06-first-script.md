@@ -30,7 +30,9 @@ Written by Kevin Lim and Directed by _ _ , Subterranean will be featured in
 Bindlestiff Studio's Stories High IX *(link)*, with _ _ as Doc and _ _ as Indio.
 </div>
 
+<!--
 ![Man Belaying Along Cave Wall]({{ "/images/jonathan-ouimet-qcXff4UhZ-4-unsplash.jpg" | absolute_url }})
+-->
 
 ## ACT I
 
