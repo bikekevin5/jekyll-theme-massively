@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Stageplay: Subterranean"
+title:  "Subterranean"
 date:   2019-08-21
-excerpt: "What happens when two adventure scientists go exploring in an uncharted cave? There's something alive down here..."
+excerpt: "Stageplay: What happens when two adventure scientists go exploring in an uncharted cave?"
 image: "/images/pic03.jpg"
 ---
 
