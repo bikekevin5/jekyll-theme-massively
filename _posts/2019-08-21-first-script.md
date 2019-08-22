@@ -27,12 +27,13 @@ and then go back and template it??
 
 <h2>Intro</h2>
 <div class="box">
-Subterranean follows the journey of two scientists exploring a cave in search
+<p>Subterranean follows the journey of two scientists exploring a cave in search
 of a mysterious geode promising fortune and fame. With captivating imagery and
 concise dialogue, this play examines how far one should go in search of truth
-and whether the pursuit of life is worth risking its loss.
-Written by Kevin Lim and Directed by _ _ , Subterranean will be featured in
-Bindlestiff Studio's Stories High IX (link), with _ _ as Doc and _ _ as Indio.
+and whether the pursuit of life is worth risking its loss.</p>
+
+<p>Written by Kevin Lim and Directed by _ _ , Subterranean will be featured in
+Bindlestiff Studio's Stories High IX (link), with _ _ as Doc and _ _ as Indio.</p>
 </div>
 
 <h2>ACT I</h2>
