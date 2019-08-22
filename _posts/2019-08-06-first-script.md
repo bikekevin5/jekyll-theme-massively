@@ -15,6 +15,8 @@ to each individual post?
 Is there a way to template this into a "_plays" and "play.html" layout?
 If you do template this, you may need to move where the images are stored,
 as it might break them
+Do you need to password protect IP? Release open-source? Or at least collect
+data on who's vising the site? How do we get google analytics on this?
 -->
 
 ## Intro
