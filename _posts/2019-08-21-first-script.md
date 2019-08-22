@@ -2,7 +2,7 @@
 layout: post
 title:  "First Script"
 date:   2019-08-21
-excerpt: "There's something alive down here"
+excerpt: "What happens when two adventure scientists go exploring in an uncharted cave? There's something alive down here..."
 image: "/images/pic03.jpg"
 ---
 
@@ -21,13 +21,13 @@ and then go back and template it??
 
 ACT I
 
-                                    Scene 1: Interior Cave,
-                                    Calaveras Country
+                      Scene 1: Interior Cave,
+                      Calaveras Country
 
-                Spotlight up on Indio being lowered by rope down
-                into a damp cave. Indio wears cave exploring gear -
-                a helmet and headlamp. On the other side of the
-                rope is Doc.
+  Spotlight up on Indio being lowered by rope down
+  into a damp cave. Indio wears cave exploring gear -
+  a helmet and headlamp. On the other side of the
+  rope is Doc.
 
 <<Transition Blue + Intro Song>>
 → top of risers/platforms
