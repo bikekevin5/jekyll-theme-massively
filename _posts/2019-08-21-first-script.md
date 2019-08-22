@@ -3,7 +3,7 @@ layout: post
 title:  "First Script"
 date:   2019-08-21
 excerpt: "What happens when two adventure scientists go exploring in an uncharted cave? There's something alive down here..."
-image: "{{site.url}}/images/pic03.jpg"
+image: "/images/pic03.jpg"
 ---
 
 Just test this out and see what happens
