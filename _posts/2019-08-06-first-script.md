@@ -87,9 +87,7 @@ At this depth
 Seated
 
 <b>INDIO</b>
-(Looks around with headlamp, takes
-measurements of cavern depth with laser
-device)
+(Looks around with headlamp)
 Subterranean geology
 
 <b>DOC</b>
