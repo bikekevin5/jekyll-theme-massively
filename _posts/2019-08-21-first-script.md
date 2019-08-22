@@ -8,6 +8,27 @@ image: "/images/pic02.jpg"
 
 Just test this out and see what happens
 
+Add some setting and intro to allow readers to get into the setting.
+That would include any mentions of this is being produced at where when and Why
+
+you would also want to use this as a template blog post and see if you want to
+include images systematically instead
+
+assuming that all your scripts will be broken down like This
+assume do it by hand First
+and then go back and template it??
+
+
+ACT I
+
+                                    Scene 1: Interior Cave,
+                                    Calaveras Country
+
+                Spotlight up on Indio being lowered by rope down
+                into a damp cave. Indio wears cave exploring gear -
+                a helmet and headlamp. On the other side of the
+                rope is Doc.
+
 <<Transition Blue + Intro Song>>
 → top of risers/platforms
 <<Stage Set>>
