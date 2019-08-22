@@ -12,7 +12,7 @@ How to handle images? Is there a systematic way or does it need to be customized
 to each individual post?
 Is there a way to template this into a "_plays" and "play.html" layout?
 If you do template this, you may need to move where the images are stored,
-as it might break them 
+as it might break them
 -->
 
 <h2>Intro</h2>
@@ -40,245 +40,245 @@ rope is Doc.
 → top of risers/platforms
 <<Stage Set>>
 <<Cave Wash fades in, Intro Song fades low>>
-→ INDIO begins climb down
+→ <b>INDIO</b> begins climb down
 
 (1) BELAY ON
-INDIO
+<b>INDIO</b>
  Belay on Doc
 
-DOC
+<b>DOC</b>
  On Belay Indio
 
-INDIO
+<b>INDIO</b>
  I don't think it's here
 
-DOC
+<b>DOC</b>
  Doesn't your dissertation depend on finding it?
 
-INDIO
+<b>INDIO</b>
  It would be deeper
 
-DOC
+<b>DOC</b>
  So lower?
 
-INDIO
+<b>INDIO</b>
  Yeah
 
-DOC
+<b>DOC</b>
            (belaying the rope)
  Lowering
 
       (Indio lowered deeper into the stalagmites)
 
-INDIO
+<b>INDIO</b>
  Tension Doc
 
-DOC
+<b>DOC</b>
  Got you, Indio
 
-INDIO
+<b>INDIO</b>
  You'd only see trace elements--
 
-DOC
+<b>DOC</b>
            (stopping the rope)
  Braking
 
-INDIO
+<b>INDIO</b>
  --at this depth
 
-DOC
+<b>DOC</b>
  Seated
 
 (2) PUBLISH OR DIE
-          INDIO
+          <b>INDIO</b>
                          (Looks around with headlamp)
                … Subterranean geology
 
-          DOC
+          <b>DOC</b>
                You wanna change your thesis?
 
-          INDIO
+          <b>INDIO</b>
                We’ve gathered plenty of data about it
 
-          DOC
+          <b>DOC</b>
                I'm a biologist
 
-          INDIO
+          <b>INDIO</b>
                You're a wilderness expert
 
-          DOC
+          <b>DOC</b>
                My research wouldn't help
 
-          INDIO
+          <b>INDIO</b>
                I'll credit you as an independent consultant
 
-          DOC
+          <b>DOC</b>
                Publish or die
 
-          INDIO
+          <b>INDIO</b>
                Tell me about it
 
 
 (2.5) IT’S MY DREAM
-          DOC
+          <b>DOC</b>
                You sure you want tenure?
 
-          INDIO
+          <b>INDIO</b>
                It's my dream
 
-          DOC
+          <b>DOC</b>
                And this power geode's gonna get you there…
 
-          INDIO
+          <b>INDIO</b>
                One cubic nanometer of this fossilized crystal could power the state of
 California with clean energy for a month
 
-          DOC
+          <b>DOC</b>
                According to theory
 
-          INDIO
+          <b>INDIO</b>
                All the indicators point to this specific environment manifesting such an element
 
-          DOC
+          <b>DOC</b>
                IF it even exists
 
-          INDIO
+          <b>INDIO</b>
               You taught me to believe in the impossible
 
-          DOC
+          <b>DOC</b>
 The improbable. Nothing's impossible. Everything has an explanation
 
      <<Lights flicker, skittering sound>>
 (3) AN INKLING
-          INDIO
+          <b>INDIO</b>
                It's spooky in here
 
-          DOC
+          <b>DOC</b>
                What do you see?
 
-          INDIO
+          <b>INDIO</b>
                A creature?
 
-          DOC
+          <b>DOC</b>
                Got a visual?
 
-          INDIO
+          <b>INDIO</b>
                Remains and droppings
 
-          DOC
+          <b>DOC</b>
                Predators?
 
-          INDIO
+          <b>INDIO</b>
                Not sure
 
-          DOC
+          <b>DOC</b>
                I’m coming down
 		(belaying down)
 
 (4) THERE’S SOMETHING HERE
-          INDIO
+          <b>INDIO</b>
                          (finds giant stone egg)
                There's something here Doc
 
-          DOC
+          <b>DOC</b>
                What?
 
-          INDIO
+          <b>INDIO</b>
                It looks like some sort of calcium formation
 
-          DOC
+          <b>DOC</b>
                Stalagmite?
 
-          INDIO
+          <b>INDIO</b>
                In a perfect ovular shape
 
-          DOC
+          <b>DOC</b>
                Hollow?
 
-          INDIO
+          <b>INDIO</b>
                The boulder is about a meter across
 
-          DOC
+          <b>DOC</b>
                How tall?
 
-          INDIO
+          <b>INDIO</b>
                There's radiation emitting
 
 
-          DOC
+          <b>DOC</b>
                Heat?
 
-          INDIO
+          <b>INDIO</b>
                There appears to be water
 
-          DOC
+          <b>DOC</b>
                Fluids?
 
-          INDIO
+          <b>INDIO</b>
                Indicating potential crystalline construction
 
-          DOC
+          <b>DOC</b>
                Or ideal conditions for life
 
 (4.5) LIFE FINDS A WAY
-          INDIO
+          <b>INDIO</b>
                Seems a little deep for that
 
-          DOC
+          <b>DOC</b>
                Life finds a way
 
-          INDIO
+          <b>INDIO</b>
                Can you hand over the pickaxe
 
-          DOC
+          <b>DOC</b>
                Why?
 
-          INDIO
+          <b>INDIO</b>
                I'm gonna break it open
 
-          DOC
+          <b>DOC</b>
                No!
 
 (5) THE TRUTH
-          INDIO
+          <b>INDIO</b>
                The rock--
 
-          DOC
+          <b>DOC</b>
                The egg!
 
-          INDIO
+          <b>INDIO</b>
                This mineral ore can't be an animal embryo
 
-          DOC
+          <b>DOC</b>
                You just described all the potential characteristics of a prehistoric reptilian ovum
 
-          INDIO
+          <b>INDIO</b>
                          (starts kicking at the rock)
                This might be the fossilized crystal energy source we're looking for
 
-          DOC
+          <b>DOC</b>
                Be careful with the spawn exterior!
 
-          INDIO
+          <b>INDIO</b>
                Then get over here and take a look
 
-          DOC
+          <b>DOC</b>
                Alright I'm coming
 
 (5.5) SIGNS SAY
-          INDIO
+          <b>INDIO</b>
                          (taking measurements of the giant rock)
                This radiation reading matches that of the theorized crystalline spectrum
 
-          DOC
+          <b>DOC</b>
                          (grabbing the handheld spectrometer)
                And shows indications of housing life
 
-          INDIO
+          <b>INDIO</b>
                          (pulling out pocketknife)
                I'm gonna open it
 
-          DOC
+          <b>DOC</b>
                          (blocks the knife)
                Wait!
 
@@ -286,219 +286,219 @@ The improbable. Nothing's impossible. Everything has an explanation
 
 (6) MOTHER
 
-          INDIO
+          <b>INDIO</b>
                … What was that?
 
-          DOC
+          <b>DOC</b>
                Mother
 
-          INDIO
+          <b>INDIO</b>
                I think you were right
 
-          DOC
+          <b>DOC</b>
                Something's alive down here
 
-          INDIO
+          <b>INDIO</b>
                Curiosity Doc
 
-          DOC
+          <b>DOC</b>
                We entered the nest
 
-          INDIO
+          <b>INDIO</b>
                          (packs equipment away)
                Then we better get out of here.
 
-          DOC
+          <b>DOC</b>
                We have to go deeper
 
-          INDIO
+          <b>INDIO</b>
                Whatever my thesis is worth--
 
-          DOC
+          <b>DOC</b>
                I gotta know
 
-          INDIO
+          <b>INDIO</b>
                --It's not worth my life!
 
 <<ROAR, RUMBLING, FLICKERING LIGHTS>>
 
 (7) WHOA HERE SHE COMES
-          DOC
+          <b>DOC</b>
                Where are ya girl?
 
-          INDIO
+          <b>INDIO</b>
                Doc! Don’t go down there!
 
-          DOC
+          <b>DOC</b>
                I think whoever laid this egg--
 
-          INDIO
+          <b>INDIO</b>
                Let's get this crystal--
 
-          DOC
+          <b>DOC</b>
                --is calling us.
 
-          INDIO
+          <b>INDIO</b>
                --and get out of here!
 
 (7.5) SOMETHING SPECTACULAR
-          DOC
-                         (rolls egg to INDIO)
+          <b>DOC</b>
+                         (rolls egg to <b>INDIO</b>)
                Take it, it’ll hatch--
 
-          INDIO
+          <b>INDIO</b>
                          (wraps ropes around egg)
                I don't wanna meet--
 
-          DOC
+          <b>DOC</b>
                --into something spectacular!
 
-          INDIO
+          <b>INDIO</b>
                --whatever is down here.
 
-          DOC
+          <b>DOC</b>
                Aren't you curious?
 
-          INDIO
+          <b>INDIO</b>
                Not now thanks.
 
-          DOC
+          <b>DOC</b>
                We could be the first--
 
-          INDIO
+          <b>INDIO</b>
                Let's move!
 
-          DOC
+          <b>DOC</b>
               --to find--
 
 (8) IT’S CLOSE
-          INDIO
+          <b>INDIO</b>
                It's close.
 
-          DOC
+          <b>DOC</b>
                --a new extant--
 
-          INDIO
+          <b>INDIO</b>
                Something is--
 
-          DOC
+          <b>DOC</b>
                --subterranean species!
 
 <<DINOSAUR APPEARS, RED GLOWING EYES>>
 
-          INDIO
+          <b>INDIO</b>
                --behind you.k
 
 <<GRUMBLING SOUND>>
 <<SILENCE>>
 
 (9) DON’T MOVE
-          DOC
+          <b>DOC</b>
                It's beautiful
 
-          INDIO
+          <b>INDIO</b>
 		(moves)
                I'm out
 
-          DOC
+          <b>DOC</b>
                Don't move
 
-          INDIO
+          <b>INDIO</b>
 		(freezes)
                You're right
 
 (10) GOODBYES
-          DOC
+          <b>DOC</b>
                I've enjoyed working with you
 
-          INDIO
+          <b>INDIO</b>
                Doc
 
-          DOC
+          <b>DOC</b>
                Indio, you've been a great mentee
 
-          INDIO
+          <b>INDIO</b>
                You've been the best professor I could ask for
 
-          DOC
+          <b>DOC</b>
                No sudden movements
 
 (11) POSSIBLE ESCAPE
 
 <<RED GLOW FLICKERS, DINO BLINKS>>
 
-          INDIO
+          <b>INDIO</b>
                I don't think it can see
 
-          DOC
+          <b>DOC</b>
                I think you've blinded it
 
-          INDIO
+          <b>INDIO</b>
                Climb out Doc
 
-          DOC
+          <b>DOC</b>
                No, you first
 
-          INDIO
+          <b>INDIO</b>
                I'm not leaving without you
 
-          DOC
+          <b>DOC</b>
                I want a closer look
 
-          INDIO
+          <b>INDIO</b>
                At the death trap!?
 
-          DOC
+          <b>DOC</b>
                At the living fossil in front of us
 
-          INDIO
+          <b>INDIO</b>
                Please
 
-          DOC
+          <b>DOC</b>
                Pass me your acoustimeter
 
-          INDIO
+          <b>INDIO</b>
                You want to do measurements?
 
-          DOC
+          <b>DOC</b>
                I am a biologist
 
-          INDIO
+          <b>INDIO</b>
                It might kill you
 
-          DOC
+          <b>DOC</b>
                It might save me
 
 (12) DOMESTICATED DINO
 <<DINO BLINKS AND WHINES>>
 
-          INDIO
+          <b>INDIO</b>
                … This is proprietary research
 
-          DOC
+          <b>DOC</b>
                Nothing's been documented to live down here
 
-          INDIO
+          <b>INDIO</b>
                Maybe the creature's friendly
 
-          DOC
+          <b>DOC</b>
                Maybe I can domesticate it
 
-          INDIO
+          <b>INDIO</b>
                Or at least capture it
 
-          DOC
+          <b>DOC</b>
                We'll see
 
 <<DINO “blinks”>>
 
-       INDIO
+       <b>INDIO</b>
                Hey there buddy
 
-          DOC
+          <b>DOC</b>
                Wanna name it?
 
-          INDIO
+          <b>INDIO</b>
                How about--Jaws
 
 <<ROAR/CHOMP SOUND, ALL LEDS TO RED>>
