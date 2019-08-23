@@ -4,7 +4,7 @@ subtitle: Kevin's Literature Library
 bio:                'Jekyll version of the Massively theme by HTML5UP'
 description:        "Kevin's Literature and Scripts Library"
 locale:             en_US
-baseurl: "/jekyll-theme-massively" # the subpath of your site, e.g. /blog
+baseurl: "/shuguan" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 
 # Comments
