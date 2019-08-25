@@ -55,51 +55,15 @@ Bindlestiff Studio's Stories High IX *(link)*, with _ _ as Doc and _ _ as Indio.
 </div>
 
 <!--
-![Man Belaying Along Cave Wall]({{ "/images/jonathan-ouimet-qcXff4UhZ-4-unsplash.jpg" | absolute_url }})
+![Man Belaying Along Cave Wall]*({{ "/images/jonathan-ouimet-qcXff4UhZ-4-unsplash.jpg" | absolute_url }})*
 -->
 
 ## ACT I
 
 ### Scene 1: Interior Cave, Calaveras Country
 
-*Spotlight up on Indio being lowered by rope down
-into a damp cave. Indio wears cave exploring gear -
-a helmet and headlamp. On the other side of the
-rope is Doc.*
-
-**INDIO**
-Belay on Doc
-
-**DOC**
-On Belay Indio
-
-**INDIO**
-I don't think it's here
-
-**DOC**
-Doesn't your dissertation depend on finding it
-
-**INDIO**
-It would be deeper
-
-**DOC**
-So lower?
 
 
-
-
-Skip to content
-Using Gmail with screen readers
-
-1 of 76
-Chinese Fred txt
-Inbox
-x
-
-Kevin Lim <bikekevin5@icloud.com>
-Attachments
-2:00 PM (10 minutes ago)
-to me
 
 
 
@@ -277,21 +241,21 @@ changshan (male Oriental costume).*
      Aww
 
 **CHARLIE**
-               (hands her flowers)
+               *(hands her flowers)*
      Your as beautiful as a phoenix
 
 **FRANCES**
      Charlie...
 
 **CHARLIE**
-               (And chcolates)
+               *(And chcolates)*
      And as fierce as a dragon
 
 **FRANCES**
      rawr
 
 **CHARLIE**
-               (And a bonzai tree)
+               *(And a bonzai tree)*
      Those dancing legs of yours!
 
 **FRANCES**
@@ -474,7 +438,7 @@ changshan (male Oriental costume).*
 **CHARLIE**
      What do ya say
 
-          They are halfway through changing their outfits.
+          *They are halfway through changing their outfits.*
 
 **FRANCES**
      You want to bill us as the Chinese Fred Astaire and
@@ -760,7 +724,7 @@ changshan (male Oriental costume).*
 
 **CHARLIE**
      And to prove how serious I am, I got you this
-               (Hands her a sheet of paper)
+               *(Hands her a sheet of paper)*
      A marriage license application
 
 **FRANCES**
@@ -801,11 +765,11 @@ changshan (male Oriental costume).*
 **FRANCES**
      I can't believe it.
 
-          They are almost done changing into their new dress
+          *They are almost done changing into their new dress
           and suit. He zips her up and she straightens his
-          bowtie.
+          bowtie.*
 
-          Offstage: "60 seconds til curtain!"
+          *Offstage: "60 seconds til curtain!"*
 
 **FRANCES**
      Ok, I agree. I agree to the billing, I agree to the
@@ -844,7 +808,7 @@ changshan (male Oriental costume).*
 **CHARLIE**
      And enjoy what the night brings
 
-          They throw their tap shoes on and rush offstage to
-          the sounds of big band and thunderous applause
+          *They throw their tap shoes on and rush offstage to
+          the sounds of big band and thunderous applause*
 
                                                         END.
