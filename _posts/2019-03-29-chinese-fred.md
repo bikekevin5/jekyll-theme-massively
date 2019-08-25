@@ -204,8 +204,8 @@ changshan (male Oriental costume).*
      They've never seen an Oriental tap dance like that
      before
 
-          Both are frantically changing out of their
-          elaborate costumes.
+          *Both are frantically changing out of their
+          elaborate costumes.*
 
 **FRANCES**
      I'm so glad I met you in LA
