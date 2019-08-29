@@ -2,13 +2,17 @@
 layout: post
 title:  "Chinese Fred"
 date:   2019-03-29
-excerpt: "What happens when two adventure scientists explore an uncharted cave?"
+excerpt: "Frances: We're not just some foreigners. I was born here!"
 image: "/images/guang-yang-Udw0RhphLpk-unsplash.jpg"
 categories: #[stageplay]
 tags: #[nightclub, postwar, sanfrancisco, jazz]
 ---
 
 <!-- you also need to find a way to generate the site so you can remove comments easily
+
+We're not just some foreigners. I
+was born here!
+
 
 Looks like you might want sections like
 
